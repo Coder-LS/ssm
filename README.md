@@ -17,3 +17,9 @@
 5.权限关联与控制  
 
 6.AOP日志处理  
+
+        
+https://www.bilibili.com/video/BV1mE411X7yp?p=159  SSM框架集合  
+
+https://chlemon.cn/itheima_ssm_mysql/#comments SSM企业权限管理系统MySQL版SQL语句
+
